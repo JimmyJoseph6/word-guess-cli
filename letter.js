@@ -1,5 +1,5 @@
-// dependency for inquirer npm package
-// access all of the exports in our word.js file
+// inquirer npm package
+
 var word = require("./word.js"); 
 var inquirer = require("inquirer");
 var prompt = require("prompt");

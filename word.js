@@ -3,9 +3,20 @@ var prompt = require("prompt");
 // Using the require keyword lets us access all of the exports in our word.js file
 var letter = require("./letter.js");
 
-var wordSelection = ["crossover", "fortnite", "builder", "octoberfest", "processor",
-    "courier", "optimal", "cruiser", "engineer",
-    "unconditional", "server", "poverty", "rutgers"
+var wordSelection = [
+    "crossover", 
+    "fortnite", 
+    "builder", 
+    "octoberfest", 
+    "processor",
+    "courier", 
+    "optimal", 
+    "cruiser", 
+    "engineer",
+    "unconditional", 
+    "server", 
+    "poverty", 
+    "rutgers"
 ];
 
 // randomized word chosen from wordOptons[]
@@ -48,3 +59,9 @@ word.placeHolder();
 module.exports = wordSelection;
 module.exports = Word;
 module.exports = word;
+
+//Issues reguarding code
+
+// number of guess crosses into negative and counts backword
+// unable to exit the game in the code
+// displays guessed word correct twice 
