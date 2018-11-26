@@ -1,5 +1,10 @@
 # Advanced JavaScript Assignment: Constructor Hangman
 
+<img width="480" alt="screen shot 2018-11-26 at 3 34 06 pm" src="https://user-images.githubusercontent.com/42658718/49040817-9b214180-f191-11e8-94fd-fdfd8d3526eb.png">
+
+<img width="480" alt="screen shot 2018-11-26 at 3 35 09 pm" src="https://user-images.githubusercontent.com/42658718/49040823-9d839b80-f191-11e8-8c42-de89f017aa8c.png">
+
+
 ### Overview
 
 In this week's assignment, I created a hangman command-line game using constructor functions! Yay!
